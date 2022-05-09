@@ -1,0 +1,73 @@
+body {
+    color: black;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+}
+
+.title {
+    font-size: 45px;
+    background-color: blue;
+    font-weight: 800;
+    padding: 3px;
+    margin:10px;
+    color:white;
+    border:10px dotted yellow;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+.firstImage {
+    height: 350px;
+    display:flex;
+    justify-content:space-around;
+    padding:10px;
+}
+
+.start-button {
+    display:flex;
+    justify-content:space-around;
+    height: 40px;
+    font-size:30px;
+}
+
+.option1 {
+	display:none;
+    justify-content:center;
+}
+
+.end1 {
+	display:none;
+}
+
+.End1 {
+	height: 40px;
+    font-size:30px;
+}
+.O {
+	height: 300px;
+    display:flex;
+    justify-content:center;
+    padding:10px;
+}
+
+.option2 {
+    display: none;
+}
+
+.end2 {
+    display:none;
+}
+
+.End2 {
+	height: 40px;
+    font-size:30px;
+}
